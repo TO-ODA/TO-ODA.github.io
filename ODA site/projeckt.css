@@ -1,0 +1,148 @@
+body{
+  transition: 0.5s all;
+  background-color:#000000 ;
+  font-family: 'Open Sans', sans-serif; 
+  color: #FFFFFF; 
+  
+}
+a{
+	text-decoration: none;
+	color: #FFFFFF;
+ } 
+ 
+.box_ODA{
+	background-color: #000000;
+	position: absolute;
+    top: 0px;
+    left: 0;
+	width:100%;
+	height: 50px;  
+	 
+ }
+ .center{
+	 margin-top: 5px;
+	 text-align: center;
+	 
+ } 
+ 
+ .bga{
+	font-size: 25px; 
+	font-weight: 600;
+    opacity: 0.9;
+	
+ }
+ .kja{
+	  opacity: 0.8;
+	  margin-left: 40px;
+	  font-size: 25px;
+ }
+ 
+  .dfa{
+	 opacity: 0.8;
+	  margin-left: 40px;
+	  font-size: 25px;
+	 
+ }
+ 
+ .bga:hover{
+	 opacity: 1;
+	 
+ }
+ 
+ .dfa:hover{
+	 opacity: 1;
+	 font-size: 25px;
+	
+	
+	
+ }
+ 
+  .kja:hover{
+	 font-size: 25px;
+	 opacity: 1;
+	 
+ }
+ 
+ .box_poster{
+ 
+    background-image: url(jojofon3.jpg);
+    background-size: cover;
+	
+	position: absolute;
+    top: 50px;
+    left: 0;
+	width:100%;
+	height: 700;
+ }
+ 
+ .text_poster{
+	 text-align: center;
+	 margin-top: -2.5px;
+	 font-size: 50px;
+ }
+ .icons{
+	text-align:center;
+	font-size: 40px;
+	margin-top: 10px;
+	
+ }
+ .platform{
+    background-color: #000000;
+	position: absolute;
+    top: 700px;
+    left: 0;
+	width:100%;
+	height: 60px; 
+ }
+ .box_trailers{
+	background-color: #000000;
+	
+	position: absolute;
+    top: 760px;
+    left: 0;
+	width:100%;
+	height: 700;
+ }
+ .text_trailers{
+	margin-top: 5px;
+	text-align: center;
+    font-size: 55px;
+ }
+.trailers{
+	margin-top: 35px;
+}
+ 
+ .box_end{
+	background-color: #000000;
+	position: absolute;
+    top: 1480px;
+    left: 0;
+	width:100%;
+	height: 50px;
+}
+ 
+ .rda{
+	 position: absolute; /* Абсолютное позиционирование */
+     bottom: 15px;
+	 right: 15px;
+ }
+ 
+
+
+ .gsa{
+    position: absolute; /* Абсолютное позиционирование */
+    bottom: 15px;
+	text-align: left;
+
+ }
+ 
+ .dga{
+	border: 1.5px solid #FFFFFF;
+	border-radius: 12px;
+    padding: 6px;	
+	
+ }
+ 
+.windows{
+	margin-left: 20px;
+}
